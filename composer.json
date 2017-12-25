@@ -1,6 +1,6 @@
 
 {
-    "name": "AdachSoft/TempRaspberryPi",
+    "name": "adachsoft/temp-raspberry-pi",
     "description": "DS18b20",
     "license": "MIT",
     "keywords": ["DS18b20"],
