@@ -1,3 +1,6 @@
+*.swp
+*.lock
+*.bak
 test.php
 test.sh
 /vendor

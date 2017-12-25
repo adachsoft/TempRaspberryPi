@@ -1,0 +1,22 @@
+
+{
+    "name": "AdachSoft/TempRaspberryPi",
+    "description": "DS18b20",
+    "license": "MIT",
+    "keywords": ["DS18b20"],
+    "authors": [
+        {
+            "name": "Arkadiusz Adach",
+            "email": "adach_soft@wp4b.pl"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "AdachSoft\\RaspberryPi\\": "src"
+        }
+    }
+}
